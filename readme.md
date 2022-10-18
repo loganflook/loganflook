@@ -21,7 +21,6 @@ Along with DFIR and MA, I am slowly trying to improve my abilities in PowerShell
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=loganflook)](https://github.com/loganflook/github-readme-stats)
 
 ## Github Projects that are currently receiving updates
-Eriz Zimmerman Automation
 <img src="https://github.com/loganflook/loganflook/blob/main/powershell.png" width=5% height=5% />Eric Zimmerman Tool Automation<BR />
 https://github.com/loganflook/EricZimmermanToolAutomation
 

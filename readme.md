@@ -1,8 +1,8 @@
 <img src="https://github.com/bvoris/bvoris/blob/master/ghbanner.jpg" align="center" target="_blank" />
 
 # Hi there 👋
-My name is Brad Voris and I am a Security Professional who is passionate about technology and scripting. I've been in IT/IS/Cybersecurity since 1999. I have numerous certifications in systems, networking, and security.<BR /><BR />
-I am starting to shift my focus away from PowerShell scripting to Python development. I will still support my larger PowerShell projects but newer projects will be in Python.
+My name is Logan Flook and I am a Security enthusiast of all things Digital Forensics, Incident Response, and Malware Analysis. I've been working in security since 2020. I am an avid student completing my Associates degree through the CCAF, and my undergraduate certificate and Bachelors degree through the SANS Technology Institute.<BR /><BR />
+Along with DFIR and MA, I am slowly trying to improve my abilities in PowerShell scripting, and C/C++ programming.
 
 ## Connect with me at
 

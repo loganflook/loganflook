@@ -20,6 +20,11 @@ Along with DFIR and MA, I am slowly trying to improve my abilities in PowerShell
 [![Logan's github stats](https://github-readme-stats.vercel.app/api?username=loganflook&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=loganflook)](https://github.com/loganflook/github-readme-stats)
 
+## Github Projects that are currently receiving updates
+Eriz Zimmerman Automation
+<img src="https://github.com/loganflook/loganflook/blob/main/powershell.png" width=5% height=5% />Eric Zimmerman Tool Automation<BR />
+https://github.com/loganflook/EricZimmermanToolAutomation
+
 ## Articles by Me
 <a target="_blank" href="https://isc.sans.edu/forums/diary/Quick+Answers+in+Incident+Response+RECmdexe/28706/"><img src="https://isc.sans.edu/forums/diary/Quick+Answers+in+Incident+Response+RECmdexe/28706/" alt="Quick Answers in Incident Response with RECmd">
 

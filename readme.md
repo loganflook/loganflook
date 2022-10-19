@@ -5,18 +5,13 @@ My name is Logan Flook and I am a Security enthusiast of all things Digital Fore
 Along with DFIR and MA, I am slowly trying to improve my abilities in PowerShell scripting, and C/C++ programming.
 
 ## Connect with me at
-
+<!---->
 <a href="https://twitter.com/logan_flook" rel="nofollow" target="_blank"><img alt="Twitter URL" src="https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2FHMInfoSecViking" align=left></a>
 <a href="https://www.linkedin.com/in/loganflook/" rel="nofollow" target="_blank"><img src="https://camo.githubusercontent.com/a80d00f23720d0bc9f55481cfcd77ab79e141606829cf16ec43f8cacc7741e46/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d3030373742353f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" alt="LinkedIn" data-canonical-src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" style="max-width:100%;" align=right></a>
 
 <BR /><BR />
-
 <a href="https://insertidhere.medium.com/" rel="nofollow" target="_blank"><img alt="Medium URL" src="https://github.com/loganflook/loganflook/blob/main/Medium.png" width=5% height=5% align=left></a>
 <BR /><BR />
-
-
-
-
 
 
 ## Github Stats & Most used Languages
@@ -32,30 +27,3 @@ https://github.com/loganflook/EricZimmermanToolAutomation
 <BR /><img src="https://github.com/loganflook/loganflook/blob/main/isc.jpg" width=5% height=5% />Quick Answers in Incident Response with RECmd<BR />
 https://isc.sans.edu/forums/diary/Quick+Answers+in+Incident+Response+RECmdexe/28706/<BR />
 
-<!--
-<BR />
-<img src="https://github.com/bvoris/bvoris/blob/master/skull.png" width=5% height=5% />EXPLOIT - HTAArbitraryCodeFramework - Hypertext Application Arbitrary Code Execution Framework is a proof of concept / framework for running malicious code in a "trusted" Hypertext application.<BR />
-https://github.com/bvoris/HTAArbitraryCodeFramework
-<BR /><BR />  
-<img src="https://github.com/bvoris/bvoris/blob/master/skull.png" width=3% height=3% />EXPLOIT - CMDEXERelativePathPoC - a Command Execution on relative path proof of concept<BR />
-https://github.com/bvoris/Cmdexerelativepathpoc 
-<BR /><BR />
-<img src="https://github.com/bvoris/bvoris/blob/master/powershell.png" width=5% height=5% />base64obfuscatinginpowershell - How to obfuscate processes and date in base64 from PowerShell<BR />
-https://github.com/bvoris/base64obfuscatinginpowershell
-<BR /><BR />
-<img src="https://github.com/bvoris/bvoris/blob/master/batch.png" width=5% height=5% />RedTeamRecon - Red team utility to export sensitive configuration data of a domain and systems to a file.<BR />
-https://github.com/bvoris/RedTeamRecon
-<BR /><BR />
-<img src="https://github.com/bvoris/bvoris/blob/master/powershell.png" width=5% height=5% />PoShWebserverSecurityReport - An advanced PowerShell report that uses C# to test and validate webserver configuration settings.<BR />
-https://github.com/bvoris/PoShWebserverSecurityReport
-<BR /><BR />
-<img src="https://github.com/bvoris/bvoris/blob/master/rss.png" width=3% height=3% />RSSFeeds - RSS Security Feeds OPML file<BR />
-https://github.com/bvoris/RSSFeeds
-<BR /><BR />
-<img src="https://github.com/bvoris/bvoris/blob/master/bashg.png" width=3% height=3% />RaspberryPiZeek - Raspberry Pi Zeek Network Security Monitor Deployment<BR />
-https://github.com/bvoris/RaspberryPiZeek
-<BR /><BR />
-<img src="https://github.com/bvoris/bvoris/blob/master/powershell.png" width=5% height=5% />AbuseIPDBChecker - PowerShell Script that queries an IP address from user input and exports the search results from AbuseIPDB.com
-https://github.com/bvoris/AbuseIPDBChecker
-<BR /><BR /><BR />
--->

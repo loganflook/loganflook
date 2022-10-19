@@ -11,8 +11,7 @@ Along with DFIR and MA, I am slowly trying to improve my abilities in PowerShell
 
 <BR /><BR />
 
-
-<A HREF="https://insertidhere.medium.com/" align=center>My Blog https://insertidhere.medium.com/ <A />
+<A HREF="https://insertidhere.medium.com/" align=center>My Blog <A />
 <BR /><BR />
 
   

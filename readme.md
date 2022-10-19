@@ -32,17 +32,17 @@ https://isc.sans.edu/forums/diary/Quick+Answers+in+Incident+Response+RECmdexe/28
 <!-- Current Goals -->
 ## Current Goal Checklist
 #### :books: Courses
-- [ ] :books: FOR610: Malware Reverse Engineering
+- [ ] FOR610: Malware Reverse Engineering
 - [ ] 0verfl0w Beginner Malware Analysis
 - [ ] Zero2Automated: Ultimate Malware RE
 - [ ] eLearnSecurity Reverse Engineering
 - [ ] eLearnSecurity Practical Malware Analysis
 - [ ] Malware Unicorn
-#### Certifications
+#### :scroll: Certifications
 - [ ] GIAC GREM
 - [ ] eLS eCMAP
 - [ ] eLS eCRE
-#### Books
+#### :book: Books
 - [ ] The Art of 64-bit Assembly Code
 - [ ] Effective C
 - [ ] Modern C
@@ -54,7 +54,7 @@ https://isc.sans.edu/forums/diary/Quick+Answers+in+Incident+Response+RECmdexe/28
 - [ ] Malware Analysis Techniques
 - [ ] Practical Malware Analysis
 - [ ] Windows Internals Pt 1
-#### CTFs
+#### :crossed_swords: CTFs
 - [ ] SANS DFIR NetWars
 - [ ] Immersive Labs Malware Analyst - Beginner
 - [ ] Immersive Labs Malware Analyst - Intermediate

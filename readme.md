@@ -30,7 +30,7 @@ https://github.com/loganflook/EricZimmermanToolAutomation
 https://isc.sans.edu/forums/diary/Quick+Answers+in+Incident+Response+RECmdexe/28706/<BR />
 
 <!-- Current Goals -->
-## Current Goal Checklist
+## Current Goal Checklist to Become a Reverse Engineer
 #### :books: Courses
 - [ ] FOR610: Malware Reverse Engineering
 - [ ] 0verfl0w Beginner Malware Analysis

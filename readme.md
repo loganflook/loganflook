@@ -31,6 +31,7 @@ https://isc.sans.edu/forums/diary/Quick+Answers+in+Incident+Response+RECmdexe/28
 
 <!-- Current Goals -->
 ## Current Goal Checklist
+#### Courses
 - [ ] FOR610: Malware Reverse Engineering
 - [ ] GIAC GREM
 - [ ] 0verfl0w Beginner Malware Analysis

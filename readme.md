@@ -27,3 +27,32 @@ https://github.com/loganflook/EricZimmermanToolAutomation
 ## Articles by Me
 <a target="_blank" href="https://isc.sans.edu/forums/diary/Quick+Answers+in+Incident+Response+RECmdexe/28706/"><img src="https://github.com/loganflook/loganflook/blob/main/isc.jpg" alt="Quick Answers in Incident Response with RECmd">
 
+## Articles by Me
+<B>Security Related Scripts and Applications</B><BR />
+<img src="https://github.com/loganflook/loganflook/blob/main/isc.jpg" width=5% height=5% />Quick Answers in Incident Response with RECmd<BR />
+https://isc.sans.edu/forums/diary/Quick+Answers+in+Incident+Response+RECmdexe/28706/
+<BR /><BR />
+<img src="https://github.com/bvoris/bvoris/blob/master/skull.png" width=5% height=5% />EXPLOIT - HTAArbitraryCodeFramework - Hypertext Application Arbitrary Code Execution Framework is a proof of concept / framework for running malicious code in a "trusted" Hypertext application.<BR />
+https://github.com/bvoris/HTAArbitraryCodeFramework
+<BR /><BR />  
+<img src="https://github.com/bvoris/bvoris/blob/master/skull.png" width=3% height=3% />EXPLOIT - CMDEXERelativePathPoC - a Command Execution on relative path proof of concept<BR />
+https://github.com/bvoris/Cmdexerelativepathpoc 
+<BR /><BR />
+<img src="https://github.com/bvoris/bvoris/blob/master/powershell.png" width=5% height=5% />base64obfuscatinginpowershell - How to obfuscate processes and date in base64 from PowerShell<BR />
+https://github.com/bvoris/base64obfuscatinginpowershell
+<BR /><BR />
+<img src="https://github.com/bvoris/bvoris/blob/master/batch.png" width=5% height=5% />RedTeamRecon - Red team utility to export sensitive configuration data of a domain and systems to a file.<BR />
+https://github.com/bvoris/RedTeamRecon
+<BR /><BR />
+<img src="https://github.com/bvoris/bvoris/blob/master/powershell.png" width=5% height=5% />PoShWebserverSecurityReport - An advanced PowerShell report that uses C# to test and validate webserver configuration settings.<BR />
+https://github.com/bvoris/PoShWebserverSecurityReport
+<BR /><BR />
+<img src="https://github.com/bvoris/bvoris/blob/master/rss.png" width=3% height=3% />RSSFeeds - RSS Security Feeds OPML file<BR />
+https://github.com/bvoris/RSSFeeds
+<BR /><BR />
+<img src="https://github.com/bvoris/bvoris/blob/master/bashg.png" width=3% height=3% />RaspberryPiZeek - Raspberry Pi Zeek Network Security Monitor Deployment<BR />
+https://github.com/bvoris/RaspberryPiZeek
+<BR /><BR />
+<img src="https://github.com/bvoris/bvoris/blob/master/powershell.png" width=5% height=5% />AbuseIPDBChecker - PowerShell Script that queries an IP address from user input and exports the search results from AbuseIPDB.com
+https://github.com/bvoris/AbuseIPDBChecker
+<BR /><BR /><BR />

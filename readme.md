@@ -14,7 +14,11 @@ Along with DFIR and MA, I am slowly trying to improve my abilities in PowerShell
 <A HREF="https://insertidhere.medium.com/" align=center>My Blog <A />
 <BR /><BR />
 
-  
+
+<a href="https://insertidhere.medium.com/" rel="nofollow" target="_blank"><img alt="Medium URL" src="https://github.com/loganflook/loganflook/blob/main/Medium.png" align=left></a>
+
+
+
 ## Github Stats & Most used Languages
 [![Logan's github stats](https://github-readme-stats.vercel.app/api?username=loganflook&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=loganflook)](https://github.com/loganflook/github-readme-stats)

@@ -30,7 +30,7 @@ https://github.com/loganflook/EricZimmermanToolAutomation
 https://isc.sans.edu/forums/diary/Quick+Answers+in+Incident+Response+RECmdexe/28706/<BR />
 
 <BR /><img src="https://github.com/loganflook/loganflook/blob/main/youtube.jpg" width=5% height=5% />Indexing For GIAC Exams<BR />
-https://www.youtube.com/watch?v=gXsqkbxEYNs&t=166s<BR />
+https://www.youtube.com/watch?v=gXsqkbxEYNs&t=0s<BR />
 
 <!-- Current Goals -->
 ## Current Goal Checklist to Become a Reverse Engineer

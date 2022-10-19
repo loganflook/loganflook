@@ -11,11 +11,11 @@ Along with DFIR and MA, I am slowly trying to improve my abilities in PowerShell
 
 <BR /><BR />
 
-<A HREF="https://insertidhere.medium.com/" align=center>My Blog <A />
+<a href="https://insertidhere.medium.com/" rel="nofollow" target="_blank"><img alt="Medium URL" src="https://github.com/loganflook/loganflook/blob/main/Medium.png" width=5% height=5% align=left></a>
 <BR /><BR />
 
 
-<a href="https://insertidhere.medium.com/" rel="nofollow" target="_blank"><img alt="Medium URL" src="https://github.com/loganflook/loganflook/blob/main/Medium.png" width=5% height=5% align=left></a>
+
 
 
 

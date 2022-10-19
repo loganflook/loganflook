@@ -3,8 +3,8 @@
 
 <!-- Greating -->
 # Hi there 👋
-My name is Logan Flook and I am a Security enthusiast of all things Digital Forensics, Incident Response, and Malware Analysis. I've been working in security since 2020. I am an avid student completing my Associates degree through the CCAF, and my undergraduate certificate and Bachelors degree through the SANS Technology Institute.<BR /><BR />
-Along with DFIR and MA, I am slowly trying to improve my abilities in PowerShell scripting, and C/C++ programming.
+My name is Logan Flook and I am a cyber security enthusiast of all things Digital Forensics, Incident Response, and Malware Analysis. I've been working in security since 2020. I am an avid student completing my Associates degree through the CCAF, and my undergraduate certificate and Bachelors degree through the SANS Technology Institute.<BR /><BR />
+Along with DFIR and MA, I am slowly trying to improve my abilities in PowerShell scripting, and C/C++ programming. I am also a HUGE fan of open-source and/or free tools, I try to share any that I find particularly useful!
 
 <!-- Connect with me section -->
 ## Connect with me!

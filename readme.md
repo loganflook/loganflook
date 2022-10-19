@@ -28,10 +28,13 @@ https://github.com/loganflook/EricZimmermanToolAutomation
 <a target="_blank" href="https://isc.sans.edu/forums/diary/Quick+Answers+in+Incident+Response+RECmdexe/28706/"><img src="https://github.com/loganflook/loganflook/blob/main/isc.jpg" alt="Quick Answers in Incident Response with RECmd">
 
 ## Articles by Me
-<B>Security Related Scripts and Applications</B><BR />
+<BR />
 <img src="https://github.com/loganflook/loganflook/blob/main/isc.jpg" width=5% height=5% />Quick Answers in Incident Response with RECmd<BR />
 https://isc.sans.edu/forums/diary/Quick+Answers+in+Incident+Response+RECmdexe/28706/
-<BR /><BR />
+<BR />
+
+<!--
+<BR />
 <img src="https://github.com/bvoris/bvoris/blob/master/skull.png" width=5% height=5% />EXPLOIT - HTAArbitraryCodeFramework - Hypertext Application Arbitrary Code Execution Framework is a proof of concept / framework for running malicious code in a "trusted" Hypertext application.<BR />
 https://github.com/bvoris/HTAArbitraryCodeFramework
 <BR /><BR />  
@@ -56,3 +59,4 @@ https://github.com/bvoris/RaspberryPiZeek
 <img src="https://github.com/bvoris/bvoris/blob/master/powershell.png" width=5% height=5% />AbuseIPDBChecker - PowerShell Script that queries an IP address from user input and exports the search results from AbuseIPDB.com
 https://github.com/bvoris/AbuseIPDBChecker
 <BR /><BR /><BR />
+-->

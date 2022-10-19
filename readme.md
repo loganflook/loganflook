@@ -24,8 +24,6 @@ Along with DFIR and MA, I am slowly trying to improve my abilities in PowerShell
 <img src="https://github.com/loganflook/loganflook/blob/main/powershell.png" width=5% height=5% />Eric Zimmerman Tool Automation<BR />
 https://github.com/loganflook/EricZimmermanToolAutomation
 
-## Articles by Me
-<a target="_blank" href="https://isc.sans.edu/forums/diary/Quick+Answers+in+Incident+Response+RECmdexe/28706/"><img src="https://github.com/loganflook/loganflook/blob/main/isc.jpg" alt="Quick Answers in Incident Response with RECmd">
 
 ## Articles by Me
 <BR /><img src="https://github.com/loganflook/loganflook/blob/main/isc.jpg" width=5% height=5% />Quick Answers in Incident Response with RECmd<BR />

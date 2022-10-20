@@ -32,6 +32,9 @@ https://isc.sans.edu/forums/diary/Quick+Answers+in+Incident+Response+RECmdexe/28
 <BR /><img src="https://github.com/loganflook/loganflook/blob/main/youtube.jpg" width=4% height=4% />Indexing For GIAC Exams<BR />
 https://www.youtube.com/watch?v=gXsqkbxEYNs&t=0s<BR />
 
+<img src="https://github.com/loganflook/loganflook/blob/main/youtube.jpg" width=4% height=4% />
+[Indexing For GIAC Exams](https://www.youtube.com/watch?v=gXsqkbxEYNs&t=0s)
+
 <!-- Current Goals -->
 ## Current Goal Checklist to Become a Reverse Engineer
 #### :books: Courses

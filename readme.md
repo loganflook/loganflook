@@ -29,9 +29,6 @@ https://github.com/loganflook/EricZimmermanToolAutomation
 <BR /><img src="https://github.com/loganflook/loganflook/blob/main/isc.jpg" width=5% height=5% />Quick Answers in Incident Response with RECmd<BR />
 https://isc.sans.edu/forums/diary/Quick+Answers+in+Incident+Response+RECmdexe/28706/<BR />
 
-<BR /><img src="https://github.com/loganflook/loganflook/blob/main/youtube.jpg" width=4% height=4% />Indexing For GIAC Exams<BR />
-https://www.youtube.com/watch?v=gXsqkbxEYNs&t=0s<BR />
-
 <img src="https://github.com/loganflook/loganflook/blob/main/youtube.jpg" width=4% height=4% /><a href="https://www.youtube.com/watch?v=gXsqkbxEYNs&t=0s">Indexing For GIAC Exams</a>
 
 <!-- Current Goals -->

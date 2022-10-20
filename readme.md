@@ -24,7 +24,7 @@ Along with DFIR and MA, I am slowly trying to improve my abilities in PowerShell
 <img src="https://github.com/loganflook/loganflook/blob/main/powershell.png" width=5% height=5% /><a href="https://github.com/loganflook/EricZimmermanToolAutomation">Eric Zimmerman Tool Automation</a><BR />
 
 <!-- Articles -->
-## Articles/Videos by Me
+## Articles/Videos by Me - articles also available on my Medium blog
 <img src="https://github.com/loganflook/loganflook/blob/main/isc.jpg" width=5% height=5% /> <a href="https://isc.sans.edu/diary/Forensic+Value+of+Prefetch/29168/">Forensic Value of Prefetch</a><BR />
 
 <img src="https://github.com/loganflook/loganflook/blob/main/isc.jpg" width=5% height=5% /> <a href="https://isc.sans.edu/diary/Quick+Answers+in+Incident+Response+RECmdexe/28706/">Quick Answers in Incident Response with RECmd</a><BR />

@@ -1,5 +1,5 @@
 <!-- Banner -->
-<img src="https://github.com/loganflook/loganflook/blob/main/background.png" align="center" target="_blank" />
+<img src="https://github.com/loganflook/loganflook/blob/main/cyber_background.jpg" align="center" target="_blank" />
 
 <!-- Greating -->
 # Hi there 👋

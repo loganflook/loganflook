@@ -45,6 +45,7 @@ Along with DFIR and MA, I am slowly trying to improve my abilities in PowerShell
 - [ ] eLS eCMAP
 - [ ] eLS eCRE
 #### :book: Books
+- [ ] Mastering Malware Analysis
 - [ ] The Art of 64-bit Assembly Code
 - [ ] Effective C
 - [ ] Modern C

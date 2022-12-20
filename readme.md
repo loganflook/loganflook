@@ -34,14 +34,14 @@ Along with DFIR and MA, I am slowly trying to improve my abilities in PowerShell
 <!-- Current Goals -->
 ## Current Goal Checklist to Become a Reverse Engineer
 #### :books: Courses
-- [ ] FOR610: Malware Reverse Engineering
-- [ ] 0verfl0w Beginner Malware Analysis
+- [ ] FOR610: Malware Reverse Engineering - Enrolled!
+- [ ] 0verfl0w Beginner Malware Analysis - Enrolled!
 - [ ] Zero2Automated: Ultimate Malware RE
 - [ ] eLearnSecurity Reverse Engineering
 - [ ] eLearnSecurity Practical Malware Analysis
 - [ ] Malware Unicorn
 #### :scroll: Certifications
-- [ ] GIAC GREM
+- [ ] GIAC GREM - Scheduled! Mar 1st, 2023
 - [ ] eLS eCMAP
 - [ ] eLS eCRE
 #### :book: Books

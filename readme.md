@@ -34,7 +34,7 @@ Along with DFIR and MA, I am slowly trying to improve my abilities in PowerShell
 <!-- Current Goals -->
 ## Current Goal Checklist to Become a Reverse Engineer
 #### :books: Courses
-- [ ] FOR610: Malware Reverse Engineering - Enrolled!
+- [ ] SANS FOR610: Malware Reverse Engineering - Enrolled!
 - [X] 0verfl0w Beginner Malware Analysis - Completed! 4/10:star:
 - [ ] Zero2Automated: Ultimate Malware RE
 - [ ] eLearnSecurity Reverse Engineering
@@ -45,14 +45,14 @@ Along with DFIR and MA, I am slowly trying to improve my abilities in PowerShell
 - [ ] eLS eCMAP
 - [ ] eLS eCRE
 #### :book: Books
-- [ ] Mastering Malware Analysis
-- [ ] The Art of 64-bit Assembly Code
-- [ ] Effective C
+- [ ] Packt: Mastering Malware Analysis
+- [ ] No Starch Press: The Art of 64-bit Assembly Code
+- [ ] No Starch Press: Effective C
 - [ ] Modern C
 - [ ] Professional C++
 - [ ] Modern C++ Challenge
-- [ ] The Ghidra Book
-- [ ] The IDA Pro Book
+- [ ] No Starch Press: The Ghidra Book
+- [ ] No Starch Press: The IDA Pro Book
 - [ ] Practical Reverse Engineering
 - [ ] Malware Analysis Techniques
 - [ ] Practical Malware Analysis

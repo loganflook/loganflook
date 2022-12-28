@@ -46,16 +46,12 @@ Along with DFIR and MA, I am slowly trying to improve my abilities in PowerShell
 - [ ] eLS eCRE
 #### :book: Books
 - [ ] Packt: Mastering Malware Analysis
+- [ ] Packt: Malware Analysis Techniques
+- [ ] Wiley: Practical Reverse Engineering
+- [ ] No Starch Press: Practical Malware Analysis
 - [ ] No Starch Press: The Art of 64-bit Assembly Code
-- [ ] No Starch Press: Effective C
-- [ ] Modern C
-- [ ] Professional C++
-- [ ] Modern C++ Challenge
 - [ ] No Starch Press: The Ghidra Book
 - [ ] No Starch Press: The IDA Pro Book
-- [ ] Practical Reverse Engineering
-- [ ] Malware Analysis Techniques
-- [ ] Practical Malware Analysis
 - [ ] Windows Internals Pt 1
 #### :crossed_swords: CTFs
 - [ ] SANS DFIR NetWars
@@ -65,3 +61,8 @@ Along with DFIR and MA, I am slowly trying to improve my abilities in PowerShell
 - [ ] FireEye FLARE-on 2023
 - [ ] Microcorruption
 - [ ] Can You Hack It?
+#### :keyboard: Programming
+- [ ] No Starch Press: Effective C
+- [ ] Manning: Modern C
+- [ ] Wiley: Professional C++
+- [ ] Packt: Modern C++ Challenge

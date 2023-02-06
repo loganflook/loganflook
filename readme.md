@@ -36,14 +36,14 @@ Along with DFIR and MA, I am slowly trying to improve my abilities in PowerShell
 #### :books: Courses
 - [X] SANS FOR610: Malware Reverse Engineering - Completed! 5/5:star:
 - [X] 0verfl0w Beginner Malware Analysis - Completed! 2/5:star:
-- [ ] Zero2Automated: Ultimate Malware RE
 - [ ] eLearnSecurity Reverse Engineering
+- [ ] Zero2Automated: Ultimate Malware RE
 - [ ] eLearnSecurity Practical Malware Analysis
 - [ ] Malware Unicorn
 #### :scroll: Certifications
 - [ ] GIAC GREM - Scheduled! Mar 1st, 2023
-- [ ] eLS eCMAP
 - [ ] eLS eCRE
+- [ ] eLS eCMAP
 #### :book: Books
 - [ ] Packt: Mastering Malware Analysis
 - [ ] Packt: Malware Analysis Techniques

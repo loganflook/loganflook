@@ -24,7 +24,10 @@ Along with DFIR and MA, I am slowly trying to improve my abilities in PowerShell
 <img src="https://github.com/loganflook/loganflook/blob/main/powershell.png" width=5% height=5% /><a href="https://github.com/loganflook/EricZimmermanToolAutomation">Eric Zimmerman Tool Automation</a><BR /> -->
 
 <!-- Articles -->
-## Articles/Videos by Me - articles also available on my Medium blog
+## Articles/Videos by Me
+
+<img src="https://github.com/loganflook/loganflook/blob/main/youtube.jpg" width=4% height=4% /> <a href="https://www.youtube.com/watch?v=U1ODCCnZQao&t=311s">Enabling Defenders to Conduct Incident Response Investigations with Open-Source Tools (SANS Blue Team Summit 2022)</a>
+
 <img src="https://github.com/loganflook/loganflook/blob/main/isc.jpg" width=5% height=5% /> <a href="https://isc.sans.edu/diary/Forensic+Value+of+Prefetch/29168/">Forensic Value of Prefetch</a><BR />
 
 <img src="https://github.com/loganflook/loganflook/blob/main/isc.jpg" width=5% height=5% /> <a href="https://isc.sans.edu/diary/Quick+Answers+in+Incident+Response+RECmdexe/28706/">Quick Answers in Incident Response with RECmd</a><BR />

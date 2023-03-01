@@ -37,35 +37,27 @@ Welcome to my GitHub profile! I'm Logan Flook, a passionate Cyber Security enthu
 ## Current Goal Checklist to Become a Reverse Engineer
 #### :books: Courses
 - [X] 0verfl0w Beginner Malware Analysis - Completed! 2/5:star:
-- [X] SANS FOR610: Malware Reverse Engineering - Completed! 5/5:star:
+- [X] SANS FOR610: Malware Reverse Engineering - Completed! 4/5:star:
 - [ ] TCM Academy: Practical Malware Analysis & Triage
-- [ ] eLearnSecurity: Reverse Engineering
 - [ ] Zero2Automated: Ultimate Malware RE
+- [ ] eLearnSecurity: Reverse Engineering
 - [ ] eLearnSecurity: Practical Malware Analysis
 #### :scroll: Certifications
-- [ ] GIAC GREM - Scheduled! Mar 1st, 2023
+- [ ] GIAC GREM - Scheduled! Mar 30th, 2023
 - [ ] TCM PJMR
 - [ ] eLS eCRE
 - [ ] eLS eCMAP
 #### :book: Books
 - [ ] Packt: Mastering Malware Analysis
-- [ ] Packt: Malware Analysis Techniques
 - [ ] Wiley: Practical Reverse Engineering
 - [ ] No Starch Press: Practical Malware Analysis
-- [ ] No Starch Press: The Art of 64-bit Assembly Code
 - [ ] No Starch Press: The Ghidra Book
-- [ ] No Starch Press: The IDA Pro Book
 - [ ] Windows Internals Pt 1
 #### :crossed_swords: CTFs
 - [ ] SANS DFIR NetWars
-- [ ] Immersive Labs Malware Analyst - Beginner
-- [ ] Immersive Labs Malware Analyst - Intermediate
-- [ ] FireEye FLARE-on 2014-2022
-- [ ] FireEye FLARE-on 2023
+- [ ] FireEye FLARE-on 2014-2023
 - [ ] Microcorruption
 - [ ] Can You Hack It?
 #### :keyboard: Programming
-- [ ] No Starch Press: Effective C
-- [ ] Manning: Modern C
-- [ ] Wiley: Professional C++
-- [ ] Packt: Modern C++ Challenge
+- [ ] Code Academy: Learn C
+- [ ] Code Academy: Learn C++

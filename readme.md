@@ -25,7 +25,9 @@ Welcome to my GitHub profile! I'm Logan Flook, a passionate Cyber Security enthu
 <!-- Articles -->
 ## Articles/Videos by Me
 
-<img src="https://github.com/loganflook/loganflook/blob/main/youtube.jpg" width=4% height=4% /> <a href="https://www.youtube.com/watch?v=U1ODCCnZQao&t=311s">Enabling Defenders to Conduct Incident Response Investigations with Open-Source Tools (SANS Blue Team Summit 2022)</a>
+<img src="https://github.com/loganflook/loganflook/blob/main/youtube.jpg" width=4% height=4% /> <a href="https://medium.com/@insertidhere/phobos-ransomware-analysis-54119367b1d1">Road to RE, Ep1. Phobos Ransomware Analysis</a>
+
+<img src="https://github.com/loganflook/loganflook/blob/main/youtube.jpg" width=4% height=4% /> <a href="https://www.youtube.com/watch?v=U1ODCCnZQao&t=1s">Enabling Defenders to Conduct Incident Response Investigations with Open-Source Tools (SANS Blue Team Summit 2022)</a>
 
 <img src="https://github.com/loganflook/loganflook/blob/main/isc.jpg" width=5% height=5% /> <a href="https://isc.sans.edu/diary/Forensic+Value+of+Prefetch/29168/">Forensic Value of Prefetch</a><BR />
 

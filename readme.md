@@ -61,5 +61,5 @@ Welcome to my GitHub profile! I'm Logan Flook, a passionate Cyber Security enthu
 - [ ] Microcorruption
 - [ ] Can You Hack It?
 #### :keyboard: Programming
-- [ ] Code Academy: Learn C
-- [ ] Code Academy: Learn C++
+- [ ] No Starch Press: Modern C
+- [ ] No Starch Press: C++ Crash Course

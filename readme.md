@@ -47,7 +47,7 @@ Welcome to my GitHub profile! I'm Logan Flook, a passionate Cyber Security enthu
 - [ ] eLearnSecurity: Reverse Engineering
 - [ ] eLearnSecurity: Practical Malware Analysis
 #### :scroll: Certifications
-- [X] GIAC GREM - Passed!
+- [X] GIAC GREM - Passed! 4/5:star:
 - [ ] TCM PJMR
 - [ ] eLS eCRE
 - [ ] eLS eCMAP

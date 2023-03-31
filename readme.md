@@ -40,12 +40,12 @@ Welcome to my GitHub profile! I'm Logan Flook, a passionate Cyber Security enthu
 #### :books: Courses
 - [X] 0verfl0w Beginner Malware Analysis - Completed! 2/5:star:
 - [X] SANS FOR610: Malware Reverse Engineering - Completed! 4/5:star:
-- [ ] TCM Academy: Practical Malware Analysis & Triage
 - [ ] Zero2Automated: Ultimate Malware RE
+- [ ] TCM Academy: Practical Malware Analysis & Triage
 - [ ] eLearnSecurity: Reverse Engineering
 - [ ] eLearnSecurity: Practical Malware Analysis
 #### :scroll: Certifications
-- [ ] GIAC GREM - Scheduled! Mar 30th, 2023
+- [X] GIAC GREM - Passed!
 - [ ] TCM PJMR
 - [ ] eLS eCRE
 - [ ] eLS eCMAP

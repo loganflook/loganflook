@@ -39,29 +39,33 @@ Welcome to my GitHub profile! I'm Logan Flook, a passionate cyber security enthu
 <!-- Current Goals -->
 ## Current Goal Checklist
 #### :books: Courses
-- [X] 0verfl0w Beginner Malware Analysis - Completed! 2/5:star:
-- [X] SANS FOR610: Malware Reverse Engineering - Completed! 4/5:star:
-- [ ] Zero2Automated: Ultimate Malware RE
-- [ ] TCM Academy: Practical Malware Analysis & Triage
-- [ ] eLearnSecurity: Reverse Engineering
-- [ ] eLearnSecurity: Practical Malware Analysis
+- [X] SentinelOne Incident Response Engineer - Completed, SIREN certified!
+- [ ] CrowdStrike Incident Responder (2024)
+- [ ] CrowdStrike Threat Hunter (2024)
+- [ ] Palo Alto Cortex XDR Incident Responder (2025)
+- [ ] Immersive Labs Incident Response and Digital Forensics (2025)
+- [ ] Immersive Labs Incident Response and Attacker Techniques (2025)
+- [ ] Immersive Labs Advanced Threat Hunting and Digital Forensics (2026?)
+- [ ] Immersive Labs OT/ICS for Incident Responders (2026?)
 #### :scroll: Certifications
-- [X] GIAC GREM - Passed! 4/5:star:
-- [ ] TCM PJMR
-- [ ] eLS eCRE
-- [ ] eLS eCMAP
-#### :book: Books
-- [ ] Packt: Mastering Malware Analysis
-- [ ] Wiley: Practical Reverse Engineering
-- [ ] No Starch Press: Practical Malware Analysis
-- [ ] No Starch Press: The Ghidra Book
-- [ ] Windows Internals Pt 1
+- [X] GIAC GCIH - Passed!
+- [X] GIAC GCFE - Passed!
+- [X] GIAC GCFA - Passed!
+- [X] GIAC GNFA - Passed!
+- [X] GIAC GREM - Passed!
+- [ ] GIAC GCFR - Tentative
+- [ ] GIAC GEIR - Tentative
+#### :book: Master of Science in Information Security Engineering (MSISE)
+- [ ] LDR514: Strategic Planning, Policy, and Leadership (GSTRT)
+- [ ] SEC530: Defensible Security Architecture and Engineering (GDSA)
+- [ ] SEC402, SEC 405, and Report
+- [ ] MGT433: Managing Human Risk (SSAP)
+- [ ] LDR525: Managing CyberSecurity Initiatives & Effective Communication (GCPM)
+- [ ] FOR509: Enterprise Cloud Forensics and Incident Response (GCFR) - Tentative
+- [ ] FOR608: Enterprise-Class Incident Response & Threat Hunting (GEIR) - Tentative
 #### :crossed_swords: CTFs
-- [ ] SANS DFIR NetWars
-- [ ] FireEye FLARE-on 2014-2023
-- [ ] Microcorruption
-- [ ] Can You Hack It?
-#### :keyboard: Programming
-- [ ] No Starch Press: The Art of 64-Bit Assembly
-- [ ] No Starch Press: Effective C
-- [ ] No Starch Press: C++ Crash Course
+- [ ] SANS NetWars Continuous
+- [ ] HackTheBox DFIR Challenges?
+#### :earth_americas: Community Engagement
+- [ ] More Blog Posts
+- [ ] More YouTube videos?

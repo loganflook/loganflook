@@ -38,11 +38,12 @@ Welcome to my GitHub profile! I'm Logan Flook, a passionate cyber security enthu
 
 <!-- Current Goals -->
 ## Current Goal Checklist
-#### :books: Courses
+#### :books: Endpoint Detection and Response Courses
 - [X] SentinelOne Incident Response Engineer - Completed, SIREN certified!
 - [ ] CrowdStrike Incident Responder (2024)
 - [ ] CrowdStrike Threat Hunter (2024)
 - [ ] Palo Alto Cortex XDR Incident Responder (2025)
+#### :space_invader: Hands On Training
 - [ ] Immersive Labs Incident Response and Digital Forensics (2025)
 - [ ] Immersive Labs Incident Response and Attacker Techniques (2025)
 - [ ] Immersive Labs Advanced Threat Hunting and Digital Forensics (2026?)

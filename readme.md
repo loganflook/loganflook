@@ -40,7 +40,7 @@ Welcome to my GitHub profile! I'm Logan Flook, a passionate cyber security enthu
 ## Current Goal Checklist
 #### :books: Endpoint Detection and Response Courses
 - [X] SentinelOne Incident Response Engineer - Completed, SIREN certified!
-- [ ] CrowdStrike Incident Responder (2024)
+- [X] CrowdStrike Incident Responder (2024)
 - [ ] CrowdStrike Threat Hunter (2024)
 - [ ] Palo Alto Cortex XDR Incident Responder (2025)
 #### :space_invader: Hands On Training
@@ -57,7 +57,7 @@ Welcome to my GitHub profile! I'm Logan Flook, a passionate cyber security enthu
 - [ ] GIAC GCFR - Tentative
 - [ ] GIAC GEIR - Tentative
 #### :book: Master of Science in Information Security Engineering (MSISE)
-- [ ] LDR514: Strategic Planning, Policy, and Leadership (GSTRT)
+- [X] LDR514: Strategic Planning, Policy, and Leadership (GSTRT)
 - [ ] SEC530: Defensible Security Architecture and Engineering (GDSA)
 - [ ] SEC402, SEC 405, and Report
 - [ ] MGT433: Managing Human Risk (SSAP)

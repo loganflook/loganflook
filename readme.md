@@ -41,7 +41,7 @@ Welcome to my GitHub profile! I'm Logan Flook, a passionate cyber security enthu
 #### :books: Endpoint Detection and Response Courses
 - [X] SentinelOne Incident Response Engineer - Completed, SIREN certified!
 - [X] CrowdStrike Incident Responder (2024)
-- [ ] CrowdStrike Threat Hunter (2024)
+- [ ] CrowdStrike Threat Hunter (2025)
 - [ ] Palo Alto Cortex XDR Incident Responder (2025)
 #### :space_invader: Hands On Training
 - [ ] Immersive Labs Incident Response and Digital Forensics (2025)
@@ -54,16 +54,12 @@ Welcome to my GitHub profile! I'm Logan Flook, a passionate cyber security enthu
 - [X] GIAC GCFA - Passed!
 - [X] GIAC GNFA - Passed!
 - [X] GIAC GREM - Passed!
-- [ ] GIAC GCFR - Tentative
-- [ ] GIAC GEIR - Tentative
 #### :book: Master of Science in Information Security Engineering (MSISE)
 - [X] LDR514: Strategic Planning, Policy, and Leadership (GSTRT)
 - [ ] SEC530: Defensible Security Architecture and Engineering (GDSA)
 - [ ] SEC402, SEC 405, and Report
 - [ ] MGT433: Managing Human Risk (SSAP)
 - [ ] LDR525: Managing CyberSecurity Initiatives & Effective Communication (GCPM)
-- [ ] FOR509: Enterprise Cloud Forensics and Incident Response (GCFR) - Tentative
-- [ ] FOR608: Enterprise-Class Incident Response & Threat Hunting (GEIR) - Tentative
 #### :crossed_swords: CTFs
 - [ ] SANS NetWars Continuous
 - [ ] HackTheBox DFIR Challenges?

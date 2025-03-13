@@ -40,20 +40,23 @@ Welcome to my GitHub profile! I'm Logan Flook, a passionate cyber security enthu
 ## Current Goal Checklist
 #### :books: Endpoint Detection and Response Courses
 - [X] SentinelOne Incident Response Engineer - Completed, SIREN certified!
-- [X] CrowdStrike Incident Responder (2024)
-- [ ] CrowdStrike Threat Hunter (2025)
-- [ ] Palo Alto Cortex XDR Incident Responder (2025)
+- [X] CrowdStrike Incident Responder, Completed track
+- [X] CrowdStrike Threat Hunter, Completed track
+- [ ] Palo Alto Cortex XDR Incident Responder
 #### :space_invader: Hands On Training
-- [ ] Immersive Labs Incident Response and Digital Forensics (2025)
-- [ ] Immersive Labs Incident Response and Attacker Techniques (2025)
-- [ ] Immersive Labs Advanced Threat Hunting and Digital Forensics (2026?)
-- [ ] Immersive Labs OT/ICS for Incident Responders (2026?)
+- [ ] HackTheBox Academy SOC Analyst Path
+- [ ] HackTheBox Academy Penetration Tester Path
+- [ ] HackTheBox Academy Bug Bount Hunter
+- [ ] Immersive Labs Incident Response and Digital Forensics
+- [ ] Immersive Labs Incident Response and Attacker Techniques
+- [ ] Immersive Labs Advanced Threat Hunting and Digital Forensics
+- [ ] Immersive Labs OT/ICS for Incident Responders
 #### :scroll: Certifications
-- [X] GIAC GCIH - Passed!
-- [X] GIAC GCFE - Passed!
-- [X] GIAC GCFA - Passed!
-- [X] GIAC GNFA - Passed!
-- [X] GIAC GREM - Passed!
+- [X] GIAC GCIH
+- [X] GIAC GCFE
+- [X] GIAC GCFA
+- [X] GIAC GNFA
+- [X] GIAC GREM
 #### :book: Master of Science in Information Security Engineering (MSISE)
 - [X] LDR514: Strategic Planning, Policy, and Leadership (GSTRT)
 - [ ] SEC530: Defensible Security Architecture and Engineering (GDSA)
@@ -62,7 +65,5 @@ Welcome to my GitHub profile! I'm Logan Flook, a passionate cyber security enthu
 - [ ] LDR525: Managing CyberSecurity Initiatives & Effective Communication (GCPM)
 #### :crossed_swords: CTFs
 - [ ] SANS NetWars Continuous
-- [ ] HackTheBox DFIR Challenges?
 #### :earth_americas: Community Engagement
-- [ ] More Blog Posts
-- [ ] More YouTube videos?
+- [ ] One Open-Source Project

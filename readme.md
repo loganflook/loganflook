@@ -42,15 +42,33 @@ Welcome to my GitHub profile! I'm Logan Flook, a passionate cyber security enthu
 - [X] SentinelOne Incident Response Engineer - Completed, SIREN certified!
 - [X] CrowdStrike Incident Responder, Completed track
 - [X] CrowdStrike Threat Hunter, Completed track
-- [ ] Palo Alto Cortex XDR Incident Responder
-#### :space_invader: Hands On Training
-- [ ] HackTheBox Academy SOC Analyst Path
-- [ ] HackTheBox Academy Penetration Tester Path
-- [ ] HackTheBox Academy Bug Bount Hunter
-- [ ] Immersive Labs Incident Response and Digital Forensics
-- [ ] Immersive Labs Incident Response and Attacker Techniques
-- [ ] Immersive Labs Advanced Threat Hunting and Digital Forensics
-- [ ] Immersive Labs OT/ICS for Incident Responders
+#### :crossed_swords: HackTheBox
+- [ ] HTB Certified Defensive Security Analyst
+- [ ] HTB Certified Penetration Testing Specialist
+- [ ] HTB Certified Bug Bounty Hunter
+- [ ] HTB Certified Active Directory Pentesting Expert
+- [ ] HTB Easy-Level Tracks
+- [ ] HTB Medium-Level Tracks
+- [ ] HTB Hard-Level Tracks
+- [ ] Sherlocks 5 Challenges
+- [ ] Sherlocks 10 Challenges
+- [ ] Sherlocks 20 Challenges
+- [ ] Sherlocks 40 Challenges
+- [ ] ProLab Dante
+- [ ] ProLab P.O.O.
+- [ ] ProLab XEN
+- [ ] ProLab Zephyr
+- [ ] ProLab RastaLabs
+- [ ] ProLab Offshore
+- [ ] Season 8
+#### :space_invader: ImmersiveLabs
+- [ ] Infrastructure PenTester - Beginner
+- [ ] Infrastructure PenTester - Intermediate
+- [ ] Infrastructure PenTester - Advanced
+- [ ] Web App PenTester - Beginner
+- [ ] Web App PenTester - Intermediate
+- [ ] Offensive Security Professional
+- [ ] Incident Response and Attacker Technqiues
 #### :scroll: Certifications
 - [X] GIAC GCIH
 - [X] GIAC GCFE
@@ -63,7 +81,4 @@ Welcome to my GitHub profile! I'm Logan Flook, a passionate cyber security enthu
 - [ ] SEC402, SEC 405, and Report
 - [ ] MGT433: Managing Human Risk (SSAP)
 - [ ] LDR525: Managing CyberSecurity Initiatives & Effective Communication (GCPM)
-#### :crossed_swords: CTFs
-- [ ] SANS NetWars Continuous
-#### :earth_americas: Community Engagement
-- [ ] One Open-Source Project
+

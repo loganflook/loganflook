@@ -53,7 +53,7 @@ Welcome to my GitHub profile! I'm Logan Flook, a passionate cyber security enthu
 - [ ] Sherlocks 5 Challenges
 - [ ] Sherlocks 10 Challenges
 - [ ] Sherlocks 20 Challenges
-- [ ] Sherlocks 40 Challenges
+- [ ] Sherlocks 50 Challenges
 - [ ] ProLab Dante
 - [ ] ProLab P.O.O.
 - [ ] ProLab XEN

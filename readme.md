@@ -74,7 +74,6 @@ Welcome to my GitHub profile! I'm Logan Flook, a passionate cyber security enthu
 #### :book: Master of Science in Information Security Engineering (MSISE)
 - [X] LDR514: Strategic Planning, Policy, and Leadership (GSTRT)
 - [X] SEC530: Defensible Security Architecture and Engineering (GDSA)
-- [ ] SEC402, SEC 405, and Report
 - [ ] MGT433: Managing Human Risk (SSAP)
 - [ ] SEC402, SEC 405, and Report
 - [ ] LDR512: Security Leadership (GSLC)

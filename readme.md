@@ -38,38 +38,34 @@ Welcome to my GitHub profile! I'm Logan Flook, a passionate cyber security enthu
 
 <!-- Current Goals -->
 ## Current Goal Checklist
-#### :books: Endpoint Detection and Response Courses
+#### :books: Reading
+- [ ] Pentesting Active Directory and Windows-based Infrastructure – Packt
+- [ ] Practical Threat Intelligence and Data-Driven Threat Hunting – Packt
+- [ ] Microsoft Sentinel – Pearson
+- [ ] Microsoft Defender for Cloud – Pearson
+- [ ] Mastering Windows Security and Hardening – Packt
+- [ ] Microsoft Azure Security Technologies Certification and Beyond – Packt
+- [ ] Mastering Defensive Security – Packt
+- [ ] Microsoft Azure Network Security – Pearson
+- [ ] Cybersecurity Blue Team Strategies – Packt
+- [ ] Effective Cybersecurity – Pearson
+- [ ] Security Engineering – Wiley
+- [ ] Microsoft 365 Security Administration MS-500 Exam Guide – Packt
+- [ ] The Modern Software Operations Center – Pearson
+- [ ] A Practical Guide to Digital Forensics Investigations – Pearson
+- [ ] Threat Modeling: Designing for Security – Wiley
+- [ ] Cybersecurity Attack and Defense Strategies – Packt
+- [ ] Penetration Testing Azure for Ethical Hackers – Packt
+- [ ] Adversarial Tradecraft in Cybersecurity – Packt
+#### :crossed_swords: Endpoint Detection and Response Courses
 - [X] SentinelOne Incident Response Engineer - Completed, SIREN certified!
 - [X] CrowdStrike Incident Responder, Completed track
 - [X] CrowdStrike Threat Hunter, Completed track
-#### :crossed_swords: HackTheBox
-- [ ] HTB Certified Defensive Security Analyst
-- [ ] HTB Certified Penetration Testing Specialist
-- [ ] HTB Certified Bug Bounty Hunter
-- [ ] HTB Certified Active Directory Pentesting Expert
-- [ ] HTB Easy-Level Tracks
-- [ ] HTB Medium-Level Tracks
-- [ ] HTB Hard-Level Tracks
-- [ ] Sherlocks 5 Challenges
-- [ ] Sherlocks 10 Challenges
-- [ ] Sherlocks 20 Challenges
-- [ ] Sherlocks 50 Challenges
-- [ ] ProLab Dante
-- [ ] ProLab P.O.O.
-- [ ] ProLab XEN
-- [ ] ProLab Zephyr
-- [ ] ProLab RastaLabs
-- [ ] ProLab Offshore
-- [ ] Season 8
-#### :space_invader: ImmersiveLabs
-- [ ] Infrastructure PenTester - Beginner
-- [ ] Infrastructure PenTester - Intermediate
-- [ ] Infrastructure PenTester - Advanced
-- [ ] Web App PenTester - Beginner
-- [ ] Web App PenTester - Intermediate
-- [ ] Offensive Security Professional
-- [ ] Incident Response and Attacker Technqiues
-#### :scroll: Certifications
+#### :space_invader: CTFs and Labs
+- [ ] HTB Academy Path Defensive Security Analyst
+- [ ] HTB Academy Path Penetration Testing Specialist
+- [ ] HTB Academy Path Active Directory Pentesting Expert
+#### :scroll: Incident Response Certifications
 - [X] GIAC GCIH
 - [X] GIAC GCFE
 - [X] GIAC GCFA
@@ -77,8 +73,10 @@ Welcome to my GitHub profile! I'm Logan Flook, a passionate cyber security enthu
 - [X] GIAC GREM
 #### :book: Master of Science in Information Security Engineering (MSISE)
 - [X] LDR514: Strategic Planning, Policy, and Leadership (GSTRT)
-- [ ] SEC530: Defensible Security Architecture and Engineering (GDSA)
-- [ ] SEC402, SEC 405, and Report
+- [X] SEC530: Defensible Security Architecture and Engineering (GDSA)
 - [ ] MGT433: Managing Human Risk (SSAP)
-- [ ] LDR525: Managing CyberSecurity Initiatives & Effective Communication (GCPM)
+- [ ] SEC402, SEC 405, and Report
+- [ ] LDR512: Security Leadership (GSLC)
+- [ ] NetWars Continuous
+- [ ] Whitepaper & Presentation
 

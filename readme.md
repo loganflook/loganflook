@@ -37,25 +37,26 @@ Welcome to my GitHub profile! I'm Logan Flook, a passionate cyber security enthu
 <img src="https://github.com/loganflook/loganflook/blob/main/youtube.jpg" width=4% height=4% /> <a href="https://www.youtube.com/watch?v=gXsqkbxEYNs&t=0s">Indexing For GIAC Exams</a>
 
 <!-- Current Goals -->
-## Current Goal Checklist
-#### :books: Reading
+## Current Goal Checklist in No Particular Order
+#### :computer: Microsoft Training
 - [ ] Pentesting Active Directory and Windows-based Infrastructure – Packt
-- [ ] Practical Threat Intelligence and Data-Driven Threat Hunting – Packt
+- [ ] Microsoft Azure Security Technologies Certification and Beyond – Packt
+- [ ] Microsoft Azure Network Security – Pearson
 - [ ] Microsoft Sentinel – Pearson
+- [ ] Penetration Testing Azure for Ethical Hackers – Packt
 - [ ] Microsoft Defender for Cloud – Pearson
 - [ ] Mastering Windows Security and Hardening – Packt
-- [ ] Microsoft Azure Security Technologies Certification and Beyond – Packt
+- [ ] Microsoft 365 Security Administration MS-500 Exam Guide – Packt
+#### :books: Reading
+- [ ] Practical Threat Intelligence and Data-Driven Threat Hunting – Packt
 - [ ] Mastering Defensive Security – Packt
-- [ ] Microsoft Azure Network Security – Pearson
 - [ ] Cybersecurity Blue Team Strategies – Packt
 - [ ] Effective Cybersecurity – Pearson
 - [ ] Security Engineering – Wiley
-- [ ] Microsoft 365 Security Administration MS-500 Exam Guide – Packt
 - [ ] The Modern Software Operations Center – Pearson
 - [ ] A Practical Guide to Digital Forensics Investigations – Pearson
 - [ ] Threat Modeling: Designing for Security – Wiley
 - [ ] Cybersecurity Attack and Defense Strategies – Packt
-- [ ] Penetration Testing Azure for Ethical Hackers – Packt
 - [ ] Adversarial Tradecraft in Cybersecurity – Packt
 #### :snake: Python learning
 - [ ] Zenva Humble Pythong 2023 Bundle

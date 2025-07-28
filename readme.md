@@ -57,6 +57,9 @@ Welcome to my GitHub profile! I'm Logan Flook, a passionate cyber security enthu
 - [ ] Cybersecurity Attack and Defense Strategies – Packt
 - [ ] Penetration Testing Azure for Ethical Hackers – Packt
 - [ ] Adversarial Tradecraft in Cybersecurity – Packt
+#### :snake: Python learning
+- [ ] Zenva Humble Pythong 2023 Bundle
+- [ ] Python Crash Course NoStarchPress
 #### :crossed_swords: Endpoint Detection and Response Courses
 - [X] SentinelOne Incident Response Engineer - Completed, SIREN certified!
 - [X] CrowdStrike Incident Responder, Completed track

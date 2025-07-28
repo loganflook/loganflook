@@ -40,11 +40,19 @@ Welcome to my GitHub profile! I'm Logan Flook, a passionate cyber security enthu
 ## Current Goal Checklist in No Particular Order
 #### :computer: Microsoft Training
 - [ ] Pentesting Active Directory and Windows-based Infrastructure – Packt
+- [ ] Microsoft Azure Basics - ImmersiveLabs
 - [ ] Microsoft Azure Security Technologies Certification and Beyond – Packt
 - [ ] Microsoft Azure Network Security – Pearson
 - [ ] Microsoft Sentinel – Pearson
+- [ ] Microsoft Sentinel: Deployment & Ingestion - ImmersiveLabs
+- [ ] Microsoft Sentinel: Blue Team Operations - ImmersiveLabs
+- [ ] Microsoft Sentinel: SOAR - ImmersiveLabs
+- [ ] Microsoft Sentinel: Threat Hunting with Notebooks and Workbooks - ImmersiveLabs
+- [ ] Kusto Query Language - ImmersiveLabs
+- [ ] Microsoft Sentinel Specialist Career Badge - ImmersiveLabs
 - [ ] Penetration Testing Azure for Ethical Hackers – Packt
 - [ ] Microsoft Defender for Cloud – Pearson
+- [ ] Microsoft Defender for Cloud - ImmersiveLabs
 - [ ] Mastering Windows Security and Hardening – Packt
 - [ ] Microsoft 365 Security Administration MS-500 Exam Guide – Packt
 #### :books: Reading

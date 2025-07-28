@@ -37,7 +37,7 @@ Welcome to my GitHub profile! I'm Logan Flook, a passionate cyber security enthu
 <img src="https://github.com/loganflook/loganflook/blob/main/youtube.jpg" width=4% height=4% /> <a href="https://www.youtube.com/watch?v=gXsqkbxEYNs&t=0s">Indexing For GIAC Exams</a>
 
 <!-- Current Goals -->
-## Current Goal Checklist in No Particular Order
+## Current Goals in No Particular Order
 #### :computer: Microsoft Training
 - [ ] Pentesting Active Directory and Windows-based Infrastructure – Packt
 - [ ] Microsoft Azure Basics - ImmersiveLabs

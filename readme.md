@@ -37,52 +37,33 @@ Welcome to my GitHub profile! I'm Logan Flook, a passionate cyber security enthu
 <img src="https://github.com/loganflook/loganflook/blob/main/youtube.jpg" width=4% height=4% /> <a href="https://www.youtube.com/watch?v=gXsqkbxEYNs&t=0s">Indexing For GIAC Exams</a>
 
 <!-- Current Goals -->
-## Current Goals in No Particular Order
+## Pathway to becoming a Microsoft Expert
 #### :computer: Microsoft Training
-- [ ] Pentesting Active Directory and Windows-based Infrastructure – Packt
 - [ ] Microsoft Azure Basics - ImmersiveLabs
+- [ ] Microsoft Sentinel: Deployment & Ingestion - ImmersiveLabs
+- [ ] Kusto Query Language - ImmersiveLabs
+- [ ] Microsoft Sentinel: SOAR - ImmersiveLabs
+- [ ] Microsoft Sentinel: Blue Team Operations - ImmersiveLabs
+- [ ] Microsoft Sentinel: Threat Hunting with Notebooks and Workbooks - ImmersiveLabs
+- [ ] Microsoft Sentinel Specialist Career Badge - ImmersiveLabs
+- [ ] Microsoft Defender for Cloud - ImmersiveLabs
 - [ ] Microsoft Azure Security Technologies Certification and Beyond – Packt
 - [ ] Microsoft Azure Network Security – Pearson
 - [ ] Microsoft Sentinel – Pearson
-- [ ] Microsoft Sentinel: Deployment & Ingestion - ImmersiveLabs
-- [ ] Microsoft Sentinel: Blue Team Operations - ImmersiveLabs
-- [ ] Microsoft Sentinel: SOAR - ImmersiveLabs
-- [ ] Microsoft Sentinel: Threat Hunting with Notebooks and Workbooks - ImmersiveLabs
-- [ ] Kusto Query Language - ImmersiveLabs
-- [ ] Microsoft Sentinel Specialist Career Badge - ImmersiveLabs
-- [ ] Penetration Testing Azure for Ethical Hackers – Packt
 - [ ] Microsoft Defender for Cloud – Pearson
-- [ ] Microsoft Defender for Cloud - ImmersiveLabs
+- [ ] Penetration Testing Azure for Ethical Hackers – Packt
 - [ ] Mastering Windows Security and Hardening – Packt
+- [ ] Pentesting Active Directory and Windows-based Infrastructure – Packt
 - [ ] Microsoft 365 Security Administration MS-500 Exam Guide – Packt
-#### :books: Reading
-- [ ] Practical Threat Intelligence and Data-Driven Threat Hunting – Packt
-- [ ] Mastering Defensive Security – Packt
-- [ ] Cybersecurity Blue Team Strategies – Packt
-- [ ] Effective Cybersecurity – Pearson
-- [ ] Security Engineering – Wiley
-- [ ] The Modern Software Operations Center – Pearson
-- [ ] A Practical Guide to Digital Forensics Investigations – Pearson
-- [ ] Threat Modeling: Designing for Security – Wiley
-- [ ] Cybersecurity Attack and Defense Strategies – Packt
-- [ ] Adversarial Tradecraft in Cybersecurity – Packt
-#### :snake: Python learning
-- [ ] Zenva Humble Pythong 2023 Bundle
-- [ ] Python Crash Course NoStarchPress
-#### :crossed_swords: Endpoint Detection and Response Courses
-- [X] SentinelOne Incident Response Engineer - Completed, SIREN certified!
-- [X] CrowdStrike Incident Responder, Completed track
-- [X] CrowdStrike Threat Hunter, Completed track
+#### :trophy: Certifications
+- [ ] Microsoft Certified: Azure Security Engineer Associate (AZ-500)
+- [ ] Microsoft Certified: Identity and Access Administrator Associate (SC-300)
+- [ ] Microsoft Certified: Security Operations Analyst Associate (SC-200)
+- [ ] Microsoft Certified: Cybersecurity Archietct Expert (SC-100)
 #### :space_invader: CTFs and Labs
 - [ ] HTB Academy Path Defensive Security Analyst
 - [ ] HTB Academy Path Penetration Testing Specialist
 - [ ] HTB Academy Path Active Directory Pentesting Expert
-#### :scroll: Incident Response Certifications
-- [X] GIAC GCIH
-- [X] GIAC GCFE
-- [X] GIAC GCFA
-- [X] GIAC GNFA
-- [X] GIAC GREM
 #### :book: Master of Science in Information Security Engineering (MSISE)
 - [X] LDR514: Strategic Planning, Policy, and Leadership (GSTRT)
 - [X] SEC530: Defensible Security Architecture and Engineering (GDSA)

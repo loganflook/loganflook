@@ -37,9 +37,9 @@ Welcome to my GitHub profile! I'm Logan Flook, a passionate cyber security enthu
 <img src="https://github.com/loganflook/loganflook/blob/main/youtube.jpg" width=4% height=4% /> <a href="https://www.youtube.com/watch?v=gXsqkbxEYNs&t=0s">Indexing For GIAC Exams</a>
 
 <!-- Current Goals -->
-## Pathway to becoming a Microsoft Expert
-#### :computer: Microsoft Training
-- [ ] Microsoft Azure Basics - ImmersiveLabs
+## Pathway to becoming a Microsoft Cybersecurity Expert
+#### :computer: Hands-On Training
+- [X] Microsoft Azure Basics - ImmersiveLabs
 - [ ] Microsoft Sentinel: Deployment & Ingestion - ImmersiveLabs
 - [ ] Kusto Query Language - ImmersiveLabs
 - [ ] Microsoft Sentinel: SOAR - ImmersiveLabs
@@ -47,6 +47,7 @@ Welcome to my GitHub profile! I'm Logan Flook, a passionate cyber security enthu
 - [ ] Microsoft Sentinel: Threat Hunting with Notebooks and Workbooks - ImmersiveLabs
 - [ ] Microsoft Sentinel Specialist Career Badge - ImmersiveLabs
 - [ ] Microsoft Defender for Cloud - ImmersiveLabs
+#### :books: Books
 - [ ] Microsoft Azure Security Technologies Certification and Beyond – Packt
 - [ ] Microsoft Azure Network Security – Pearson
 - [ ] Microsoft Sentinel – Pearson
@@ -55,6 +56,11 @@ Welcome to my GitHub profile! I'm Logan Flook, a passionate cyber security enthu
 - [ ] Mastering Windows Security and Hardening – Packt
 - [ ] Pentesting Active Directory and Windows-based Infrastructure – Packt
 - [ ] Microsoft 365 Security Administration MS-500 Exam Guide – Packt
+#### :paperclip: Udemy
+- [ ] SC-200: Microsoft Security Operations Analyst - 15hours
+- [ ] SC-300: Microsoft Identity and Access Administrator - 10hours
+- [ ] AZ-500: Microsoft Azure Security Engineer Associate - 20hours
+- [ ] SC-100: Microsoft Cybersecurity Architect Expert - 23hours
 #### :trophy: Certifications
 - [ ] Microsoft Certified: Azure Security Engineer Associate (AZ-500)
 - [ ] Microsoft Certified: Identity and Access Administrator Associate (SC-300)
@@ -64,10 +70,10 @@ Welcome to my GitHub profile! I'm Logan Flook, a passionate cyber security enthu
 - [ ] HTB Academy Path Defensive Security Analyst
 - [ ] HTB Academy Path Penetration Testing Specialist
 - [ ] HTB Academy Path Active Directory Pentesting Expert
-#### :book: Master of Science in Information Security Engineering (MSISE)
+#### :mortar_board: Master of Science in Information Security Engineering (MSISE)
 - [X] LDR514: Strategic Planning, Policy, and Leadership (GSTRT)
 - [X] SEC530: Defensible Security Architecture and Engineering (GDSA)
-- [ ] MGT433: Managing Human Risk (SSAP)
+- [X] MGT433: Managing Human Risk (SSAP)
 - [ ] SEC402, SEC 405, and Report
 - [ ] LDR512: Security Leadership (GSLC)
 - [ ] NetWars Continuous

@@ -3,7 +3,11 @@
 
 <!-- Greating -->
 # Hi there 👋
-Welcome to my GitHub profile! I'm Logan Flook, a passionate cyber security enthusiast and professional. Currently, I work as a full-time incident responder with a background in digital forensics. I am continuously working hard to become the best DFIR practitioner I can be through both proprietary and open-source tools. I care deeply about the cyber security domain and community. Let's collaborate and make the world a more secure place!
+Welcome to my GitHub profile! I'm Logan Flook, a passionate cyber security enthusiast and professional. Currently, I work as a full-time incident responder with a background in digital forensics. I am continuously working hard to become the best DFIR practitioner I can be through both proprietary and open-source tools. I care deeply about the cyber security domain and community. 
+
+Right now I primarily spend my time responding the threats within various EDR platforms including SentinelOne, CrowdStrike and Carbon Black, and running proprietary forensics/response tool kits.
+
+Let's collaborate and make the world a more secure place!
 
 <!-- Connect with me section -->
 ## Connect with me!
@@ -37,45 +41,41 @@ Welcome to my GitHub profile! I'm Logan Flook, a passionate cyber security enthu
 <img src="https://github.com/loganflook/loganflook/blob/main/youtube.jpg" width=4% height=4% /> <a href="https://www.youtube.com/watch?v=gXsqkbxEYNs&t=0s">Indexing For GIAC Exams</a>
 
 <!-- Current Goals -->
-## Pathway to becoming a Microsoft Cybersecurity Expert
-#### :computer: Hands-On Training
-- [X] Microsoft Azure Basics - ImmersiveLabs
-- [ ] Microsoft Sentinel: Deployment & Ingestion - ImmersiveLabs
-- [ ] Kusto Query Language - ImmersiveLabs
-- [ ] Microsoft Sentinel: SOAR - ImmersiveLabs
-- [ ] Microsoft Sentinel: Blue Team Operations - ImmersiveLabs
-- [ ] Microsoft Sentinel: Threat Hunting with Notebooks and Workbooks - ImmersiveLabs
-- [ ] Microsoft Sentinel Specialist Career Badge - ImmersiveLabs
-- [ ] Microsoft Defender for Cloud - ImmersiveLabs
-#### :books: Books
-- [ ] Microsoft Azure Security Technologies Certification and Beyond – Packt
-- [ ] Microsoft Azure Network Security – Pearson
-- [ ] Microsoft Sentinel – Pearson
-- [ ] Microsoft Defender for Cloud – Pearson
-- [ ] Penetration Testing Azure for Ethical Hackers – Packt
-- [ ] Mastering Windows Security and Hardening – Packt
-- [ ] Pentesting Active Directory and Windows-based Infrastructure – Packt
-- [ ] Microsoft 365 Security Administration MS-500 Exam Guide – Packt
-#### :paperclip: Udemy
-- [ ] SC-200: Microsoft Security Operations Analyst - 15hours
-- [ ] SC-300: Microsoft Identity and Access Administrator - 10hours
-- [ ] AZ-500: Microsoft Azure Security Engineer Associate - 20hours
-- [ ] SC-100: Microsoft Cybersecurity Architect Expert - 23hours
-#### :trophy: Certifications
-- [ ] Microsoft Certified: Azure Security Engineer Associate (AZ-500)
-- [ ] Microsoft Certified: Identity and Access Administrator Associate (SC-300)
-- [ ] Microsoft Certified: Security Operations Analyst Associate (SC-200)
-- [ ] Microsoft Certified: Cybersecurity Archietct Expert (SC-100)
-#### :space_invader: CTFs and Labs
+## Pathway to becoming a Cybersecurity Expert
+#### :shield: Defensive Security
+- [X] GIAC Security Essentials Certification (GSEC)
+- [X] GIAC Certified Incident Handler (GCIH)
+- [X] GIAC Certified Intrusion Analyst (GCIA)
 - [ ] HTB Academy Path Defensive Security Analyst
+#### :crossed_swords: Offensive Security
+- [X] GIAC Penetration Tester (GPEN)
 - [ ] HTB Academy Path Penetration Testing Specialist
 - [ ] HTB Academy Path Active Directory Pentesting Expert
-#### :mortar_board: Master of Science in Information Security Engineering (MSISE)
-- [X] LDR514: Strategic Planning, Policy, and Leadership (GSTRT)
-- [X] SEC530: Defensible Security Architecture and Engineering (GDSA)
-- [X] MGT433: Managing Human Risk (SSAP)
-- [ ] SEC402, SEC 405, and Report
+#### :mag: Digital Forensics and Incident Response
+- [X] GIAC Certified Forensic Examiner (GCFE)
+- [X] GIAC Certified Forensic Analyst (GCFA)
+- [X] GIAC Network Forensic Analyst (GNFA)
+- [X] GIAC Reverse Engineering Malware (GREM)
+#### :bank: Security Architecture and Engineering
+- [X] GIAC Defensible Security Architecture (GDSA)
+#### :man_office_worker: Security Leadership
+- [X] SANS Security Awareness Professional (SSAP)
+- [X] GIAC Strategic Planning, Policy, and Leadership (GSTRT)
 - [ ] LDR512: Security Leadership (GSLC)
-- [ ] NetWars Continuous
-- [ ] Whitepaper & Presentation
+#### :space_invader: Endpoint Detection and Response
+- [ ] CrowdStrike Certified Falcon Responder (CCFR)
+- [ ] CrowdStrike Certified Falcon Hunter (CCFH)
+- [ ] CrowdStrike Certified Falcom Administrator (CCFA)
+- [ ] CrowdStrike Certified Identity Specialist (CCIS)
+- [ ] CrowdStrike Certified Cloud Specialist (CCCS)
+- [X] SentinelOne IR Engineer (SIREN)
+#### :mortar_board: Formal Degrees
+- [X] Associates in Applied Science, Systems Technology (AAS), Community College of the Air Force
+- [X] Undergraduate Certificate in Applied Cybersecurity, SANS Technology Institute
+- [X] Bachelor of Professional Studies in Applied Cybersecurity (BPS), SANS Technology Institute
+- [X] Graduate Certifiate in Incident Response, SANS Technology Institute
+- [ ] Master of Science in Information Security Engineering (MSISE), SANS Technology Institute
+- [ ] Doctor in Philosophy in Cyber Defense (Ph.D.), Dakota State University
+
+
 

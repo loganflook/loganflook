@@ -61,7 +61,7 @@ Let's collaborate and make the world a more secure place!
 #### :man_office_worker: Security Leadership
 - [X] SANS Security Awareness Professional (SSAP)
 - [X] GIAC Strategic Planning, Policy, and Leadership (GSTRT)
-- [ ] LDR512: Security Leadership (GSLC)
+- [ ] GIAC Security Leadership (GSLC)
 #### :space_invader: Endpoint Detection and Response
 - [ ] CrowdStrike Certified Falcon Responder (CCFR)
 - [ ] CrowdStrike Certified Falcon Hunter (CCFH)
